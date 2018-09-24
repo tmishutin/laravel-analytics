@@ -1,5 +1,5 @@
 {
-  "name": "spatie/laravel-analytics",
+  "name": "tmishutin/laravel-analytics",
   "description": "A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "spatie",
@@ -9,7 +9,7 @@
     "reports",
     "laravel"
   ],
-  "homepage": "https://github.com/spatie/laravel-analytics",
+  "homepage": "https://github.com/tmishutin/laravel-analytics",
   "license": "MIT",
   "authors": [
     {
@@ -22,8 +22,7 @@
   "require": {
     "php" : "^7.0",
     "google/apiclient" : "^2.0",
-    "laravel/framework": "~5.4.0|~5.5.0|~5.6.0|~5.7.0",
-    "madewithlove/illuminate-psr-cache-bridge": "^1.0",
+    "laravel/framework": "~5.2.0|~5.4.0|~5.5.0|~5.6.0|~5.7.0",
     "nesbot/carbon": "^1.21"
 
   },
